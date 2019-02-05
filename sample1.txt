@@ -1,3 +1,4 @@
 <script>
-alert('привет')
+alert('привет');
+alert('привет ver 2');
 </script>
